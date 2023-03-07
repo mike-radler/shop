@@ -1,0 +1,13 @@
+img {
+    object-fit: contain;
+}
+
+.page-item .page-link {
+    background: white;
+    color: black;
+    border-color: lightgray;
+}
+
+.active .page-link {
+    background: #F8F9FA;
+}
