@@ -5,6 +5,5 @@ Homepage:
 
 ![Homepage(guest)](https://github.com/mike-radler/shop/blob/master/screenshots/main.png)
 
-
-Homepage:
+Login:
 ![Login](https://github.com/mike-radler/shop/blob/master/screenshots/login.png)
